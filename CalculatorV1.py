@@ -1,7 +1,7 @@
 import re
 
 print("Calculator")
-print("Operator symbols: +, -, *, /")
+print("Operator symbols: +, -, *, /,^,%,//")
 print("NOTE: KINDLY WRITE FRACTIONS IN BRACKETS")
 
 def inf(expression):
