@@ -23,7 +23,7 @@ A command-line calculator built in Python that evaluates mathematical expression
 Make sure Python is installed, then run:
 
 ```bash
-python main.py
+python CalculatorV1.py
 ```
 
 You’ll see:
